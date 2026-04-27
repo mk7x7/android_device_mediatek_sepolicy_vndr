@@ -1001,6 +1001,7 @@
 
 /vendor/bin/vpud             u:object_r:vpud_native_exec:s0
 /vendor/bin(/mt[0-9]+)?/v3avpud(\.mt[0-9]+)? u:object_r:vpud_native_exec:s0
+/vendor/bin/v3avpud-64b      u:object_r:vpud_native_exec:s0
 
 # EARA-IO
 /vendor/bin/eara_io_service u:object_r:eara_io_exec:s0
